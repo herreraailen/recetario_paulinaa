@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oxygen&display=swap');
+body {font-family: 'Montserrat', sans-serif;
+background-image: url(../img/pattern.jpg);}
+
+
+.logo{ 
+margin-left: 10px;
+border-style: hidden;
+border-color: #ff5e57;
+border-width: 3px;
+} 
+
+.carolina{
+margin-top: 2%;
+}
+
+.centrado{
+text-align: center;
+}
+
+.brownie{
+display:inline-block;
+width:29%;
+height: 10%;
+padding:8px 8px;
+background-color:#ff5e57;
+border:1px solid; #ff5e57;
+text-align:center;
+color:#fff;
+}
+
+.budin{
+display:inline-block;
+width:34%;
+height: 10%;
+padding:8px 8px;
+background-color:#ff5e57;
+border:1px solid; #ff5e57;
+text-align:center;
+color:#fff;
+}
+
+.galleta{
+display:inline-block;
+width:35%;
+height: 10%;
+padding:8px 8px;
+background-color:#ff5e57;
+border:1px solid; #ff5e57;
+text-align:center;
+color:#fff;
+}
+
+h1{
+    color:#ff3f34;
+margin-top: 3%;}
+
+h2{
+color:#000;
+font-size: 116%;
+margin-top: -1%;}
+
+h3{
+color:#000;
+}
+
+h4{
+color:#ff3f34;
+font-size: 171%;
+margin-top: 4%;
+}
+
+h5{
+color:#ff3f34;
+font-size: 171%;
+margin-top: 1%
+}
+
+h6{
+    font-size: 160%;
+    color: #000;
+    width: 101%;
+    margin-top: 1%;
+}
+
+a{
+ text-decoration:none;
+ color:inherit;
+ font-size:15px;
+ font-family: 'Montserrat', sans-serif;
+}
+
+ul li{
+display:inline-block;
+width:22%;
+padding:7px 16px;
+background-color:#ff3f34;
+border:1px solid #ff5e57;
+text-align:center;
+color:#fff;
+}
+
+ul li:hover{
+background-color:red;
+color:#000;
+}
+
+
+ #contenedor{
+ width: 308px;
+ height: 154px;
+ background-color: white;
+ border-style: dotted;
+ border-color: #ff5e57;
+ border-width: 6px;
+ padding: 10px;
+}
+
+dt{
+width: 57%;
+margin-left: auto;
+font-size: 116%;
+}
+
+.ingredientes{
+ display:inline-block;
+ width:43%;
+ padding:5px 5px;
+ border:10px dotted; 
+ border-color: #ff5e57;
+ text-align:center;
+ color:#fff;
+ margin-top: 3%;
+ }
+
+ol{font-size: 100%;}
+
+iframe{
+border:6px dashed; 
+ border-color: #ff5e57;
+ text-align:center;
+ padding: 1% 1%;
+}
+
